@@ -1,0 +1,11 @@
+2016-05-15 10:23:25 INFO  Scenario_Search:21 - Executing the Test case GB_01 Order is  1.0
+2016-05-15 10:27:12 INFO  Scenario_Search:21 - Executing the Test case GB_01 Order is  1.0
+2016-05-15 10:27:50 INFO  Scenario_Search:35 - Passed as Expected  is  Sorry! There are no products to display. Actual Result is  Sorry! There are no products to display.
+2016-05-15 11:04:07 INFO  Scenario_Cart:22 - Executing the Test case GB_05 Order is  1.0
+2016-05-15 11:04:55 INFO  Scenario_Cart:41 - Passed as Expected  is  Raw Mango - Diced Actual Result is  Raw Mango - Diced
+2016-05-15 11:05:52 INFO  Scenario_Cart:61 - Executing the Test case GB_08 Order is  1.0
+2016-05-15 11:06:42 INFO  Scenario_Cart:82 - Passed as Expected  is  There are no items in your basket. Actual Result is  There are no items in your basket.
+2016-05-15 11:24:11 INFO  Scenario_Search:21 - Executing the Test case GB_01 Order is  1.0
+2016-05-15 11:25:02 INFO  Scenario_Search:35 - Passed as Expected  is  Sorry! There are no products to display. Actual Result is  Sorry! There are no products to display.
+2016-05-15 11:25:41 INFO  Scenario_Search:? - Executing the Test case GB_01 Order is  1.0
+2016-05-15 11:26:21 INFO  Scenario_Search:? - Passed as Expected  is  Sorry! There are no products to display. Actual Result is  Sorry! There are no products to display.

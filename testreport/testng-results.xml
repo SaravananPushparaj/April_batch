@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Aprilbatch" duration-ms="46482" started-at="2016-05-15T05:55:41Z" finished-at="2016-05-15T05:56:27Z">
+    <groups>
+      <group name="smoke">
+        <method signature="Scenario_Search.testInavalidSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Scenario_Component.Scenario_Search@1b68ddbd]" name="testInavalidSearch" class="Scenario_Component.Scenario_Search"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="RegSet1" duration-ms="46482" started-at="2016-05-15T05:55:41Z" finished-at="2016-05-15T05:56:27Z">
+      <class name="Scenario_Component.Scenario_Search">
+        <test-method status="PASS" signature="testInavalidSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Scenario_Component.Scenario_Search@1b68ddbd]" name="testInavalidSearch" duration-ms="46213" started-at="2016-05-15T11:25:41Z" data-provider="dp_InvalidSearch" finished-at="2016-05-15T11:26:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bbvgfghe]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sorry! There are no products to display.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInavalidSearch -->
+      </class> <!-- Scenario_Component.Scenario_Search -->
+    </test> <!-- RegSet1 -->
+  </suite> <!-- Aprilbatch -->
+</testng-results>

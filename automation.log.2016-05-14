@@ -1,0 +1,20 @@
+2016-05-14 12:50:40 INFO  Scenario_Search:18 - Executing the Test case GB_01 Order is  1.0
+2016-05-14 12:51:42 INFO  Scenario_Search:31 - Passed as Expected  is  Sorry! There are no products to display. Actual Result is  Sorry! There are no products to display.
+2016-05-14 13:02:55 INFO  Scenario_Search:21 - Executing the Test case GB_01 Order is  1.0
+2016-05-14 13:03:44 INFO  Scenario_Search:34 - Passed as Expected  is  Sorry! There are no products to display. Actual Result is  Sorry! There are no products to display.
+2016-05-14 13:03:49 INFO  Scenario_Search:51 - Executing the Test case GB_02 Order is  1.0
+2016-05-14 13:04:38 INFO  Scenario_Search:68 - Failed as Expected  is  199.0 Actual Result is  197 products
+2016-05-14 13:10:09 INFO  Scenario_Search:21 - Executing the Test case GB_01 Order is  1.0
+2016-05-14 13:11:05 INFO  Scenario_Search:34 - Passed as Expected  is  Sorry! There are no products to display. Actual Result is  Sorry! There are no products to display.
+2016-05-14 13:11:10 INFO  Scenario_Search:51 - Executing the Test case GB_02 Order is  1.0
+2016-05-14 13:12:05 INFO  Scenario_Search:65 - Passed as Expected  is  197 Actual Result is  197
+2016-05-14 13:12:10 INFO  Scenario_Search:51 - Executing the Test case GB_03 Order is  1.0
+2016-05-14 13:13:03 INFO  Scenario_Search:69 - Failed as Expected  is  428 Actual Result is  348
+2016-05-14 13:13:08 INFO  Scenario_Search:51 - Executing the Test case GB_04 Order is  1.0
+2016-05-14 13:14:24 INFO  Scenario_Search:69 - Failed as Expected  is  4 Actual Result is  3
+2016-05-14 13:31:29 INFO  Scenario_Search:21 - Executing the Test case GB_01 Order is  1.0
+2016-05-14 13:32:21 INFO  Scenario_Search:34 - Passed as Expected  is  Sorry! There are no products to display. Actual Result is  Sorry! There are no products to display.
+2016-05-14 13:33:48 INFO  Scenario_Search:21 - Executing the Test case GB_01 Order is  1.0
+2016-05-14 13:34:34 INFO  Scenario_Search:34 - Passed as Expected  is  Sorry! There are no products to display. Actual Result is  Sorry! There are no products to display.
+2016-05-14 13:37:27 INFO  Scenario_Search:21 - Executing the Test case GB_01 Order is  1.0
+2016-05-14 13:38:15 INFO  Scenario_Search:34 - Passed as Expected  is  Sorry! There are no products to display. Actual Result is  Sorry! There are no products to display.
